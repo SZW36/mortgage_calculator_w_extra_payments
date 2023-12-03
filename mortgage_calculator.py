@@ -1,3 +1,11 @@
+# 参考资料
+# 知乎 https://zhuanlan.zhihu.com/p/617706691
+# 李永乐 https://www.youtube.com/watch?v=T6FBfNpiBYw&t=431s
+# The next three websites are for verification of correctness
+# https://www.mortgagecalculator.org/calculators/what-if-i-pay-more-calculator.php#top
+# https://www.bankrate.com/mortgages/additional-mortgage-payment-calculator/
+# https://www.calculator.net/mortgage-payoff-calculator.html?cloanamount=490%2C000&cloanterm=30&cinterestrate=6.9&cremainingyear=30&cremainingmonth=0&cpayoffoption=extra&cadditionalmonth=500&cadditionalyear=0&cadditionalonetime=0&type=1&x=Calculate#loanterm
+
 
 # Initial Setup
 LOAN = 490000
